@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "remove-ai-marks": {
+      "source": "guillaumemeyer/watermarks-remover",
+      "sourceType": "github",
+      "skillPath": "skills/remove-ai-marks/SKILL.md",
+      "computedHash": "7cb0ef2f4bc2e8c9ee7398a64f483c50e3779ff1598f9607e0c40931edd0f3cd"
+    }
+  }
+}
